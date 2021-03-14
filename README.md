@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ![Wenyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobotHuang&show_icons=true&theme=radical)
 - I’m currently learning compiler, operating system and others.
 - How to reach me: huangwenyu1998@163.com
-- My favoriate language: Go, Rust
+- My favorite language: Go, Rust
