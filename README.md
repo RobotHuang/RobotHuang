@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobotHuang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobotHuang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ![Wenyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobotHuang&show_icons=true&theme=radical)
+- 🌱 I’m currently learning Compiler, operating system and others.
+- 📫 How to reach me: huangwenyu1998@163.com
