@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats-robothuang.vercel.app/api/top-langs/?username=RobotHuang&layout=compact)](https://github.com/RobotHuang/RobotHuang)  
-![Wenyu's GitHub stats](https://github-readme-stats-robothuang.vercel.app/api?username=RobotHuang&show_icons=true&theme=radical)
+![Wenyu's GitHub stats](https://github-readme-stats-robothuang.vercel.app/api?username=RobotHuang&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 - I’m currently learning compiler, operating system and others.
 - How to reach me: huangwenyu1998@163.com
 - My favorite language: Go, Rust
