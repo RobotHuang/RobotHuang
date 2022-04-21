@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats-robothuang.vercel.app/api/top-langs/?username=uran0sH&layout=compact&hide=Makefile,CMake)](https://github.com/uran0sH/uran0sH)  
 ![Wenyu's GitHub stats](https://github-readme-stats-robothuang.vercel.app/api?username=uran0sH&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 - I’m currently focusing on the operating system and virtualization.
+- I am pursing the MPhil degree in CUHKSZ, and I am also looking for a PhD opportunity
 - How to reach me: huangwenyuu@qq.com
-- My favorite language: Go, Rust
+- My favorite language: Rust
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
